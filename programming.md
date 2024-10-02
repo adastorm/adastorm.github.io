@@ -1,4 +1,12 @@
+---
+layout: default
+---
+
 # Programming Projects
+
+[Home](index.md) | [Programming Projects](programming.md) | [Video/Audio Projects](audio-video.md) | [Resume](resume.md)
+
+---
 
 ### DIY Ray Tracer
 - A custom-built ray tracer written in [language].
@@ -23,4 +31,5 @@
 - Designed and built custom guitar pedals.
 - [Details on design and sound samples].
 
+---
 [Back to Main Page](index.md)

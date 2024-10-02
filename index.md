@@ -1,4 +1,12 @@
+---
+layout: default
+---
+
 # Welcome to My Portfolio
+
+[Home](index.md) | [Programming Projects](programming.md) | [Video/Audio Projects](audio-video.md) | [Resume](resume.md)
+
+---
 
 ## Explore My Work
 
