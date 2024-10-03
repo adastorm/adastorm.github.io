@@ -10,7 +10,8 @@ layout: default
 
 ---
 
-- [Download My Computer Science Resume](path-to-resume.pdf)
+- [Download My General Resume](/Resumes/Jonah%20Watts%20Sep%202024%20Resume.pdf)
+- [Download My Computer Science Resume](/Resumes/Jonah_Watts%20-%20%20CS.pdf)
 
 ---
 [Back to Main Page](index.md)
