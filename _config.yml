@@ -5,6 +5,7 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
-author:
-  name: Jonah Watts
-  email: "jonahwatts@gmail.com"
+header_pages:
+  - audio-video.md
+  - programming.md
+  - resume.md
