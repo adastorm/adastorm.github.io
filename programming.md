@@ -11,8 +11,8 @@ layout: default
 ---
 
 ### DIY Ray Tracer
-- A custom-built ray tracer written in [language].
-- [Brief description of the project].
+- A custom-built ray tracer written in Java.
+- A project made to trace a screen of .....{TO COMPLETE}.
 - [Add link to project code/demo].
 
 ### AI Maze-Solving Robot
