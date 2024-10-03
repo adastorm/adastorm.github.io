@@ -1,44 +1,6 @@
 <link rel="stylesheet" type="text/css" href="assets/styles.css">
 
-<style>
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-  }
 
-  nav ul li {
-    position: relative;
-    margin-right: 20px;
-  }
-
-  nav ul li ul {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    background-color: white;
-    border: 1px solid #ccc;
-  }
-
-  nav ul li:hover ul {
-    display: block;
-  }
-
-  nav ul li ul li {
-    margin: 0;
-  }
-
-  nav ul li ul li a {
-    display: block;
-    padding: 10px;
-    text-decoration: none;
-  }
-</style>
 
 <nav>
   <ul>
