@@ -3,10 +3,13 @@ remote_theme: jekyll/minima
 description: "A showcase of my programming and audio/video projects"
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+    - { platform: github,  user_url: "https://github.com/adastorm" }
   skin: dark
 header_pages:
   - audio-video.md
   - programming.md
   - resume.md
+
+author:
+  name: Jonah Watts
+  email: "Jonah.watts@gmail.com"
