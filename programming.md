@@ -45,7 +45,22 @@
 - Used Different Algorithms to find the pattern of the maze, and race through it.
 - [Link to project code/video].
 
+### 2024 - ESP32 Learning Projects
+- Created a series of projects to learn about the ESP32 microcontroller.
+- Link to the website with the projects is [here](https://adastorm.github.io/CMPT401_TWU/).
+
 ### 2024 - DIY Guitar Pedal Adventures
+- Designed and built custom guitar pedals for fun using different methods
+- [Details on design and sound samples].
+
+### 2024 - GameJam: Pinyata Rythm Game
+- A rhythm game made in Unity.
+- Worked on a team of 4 to create a rhythm game where the player hits a pinata to the beat of the music.
+- Project had all original code, art, and music.
+- Source code can be found [here](https://github.com/adastorm/GameJamGame)
+- Itch.io page can be found [here](https://adastorm.itch.io/pinata)
+
+### 2024 - Making a VR Campus Tour App
 - Designed and built custom guitar pedals.
 - [Details on design and sound samples].
 
