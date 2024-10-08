@@ -27,26 +27,25 @@
 
 ---
 
-### DIY Ray Tracer
+### [2021 - Particle System](Programming/ParticleSystem.md)
+- A custom-built particle system written in C.
+- A project for a class to learn about how to spawn individual particles and manipulate them in a 2D space.
+
+
+### [2021 - DIY Ray Tracer](Programming/RayTracer.md)
 - A custom-built ray tracer written in Java.
-- A project made to trace a screen of .....{TO COMPLETE}.
-- [Add link to project code/demo].
+- A project made to learn about computer graphics to manually make a ray tracer that would render a 3D scene with different geometries.
 
-### AI Maze-Solving Robot
-- Designed an AI to navigate through mazes autonomously.
-- [Technologies used].
-- [Link to project code/video].
-
-### Programming Pacman in OpenGL
-- Built a version of Pacman using OpenGL.
-- [Details and achievements].
-- [Link to project].
-
-### Learning 8 Programming Languages in 3 Months
+### 2022 - Learning 8 Programming Languages in 3 Months
 - Documented learning 8 different programming languages.
 - [Mention the languages and insights].
 
-### DIY Guitar Pedal Adventures
+### 2023 - AI Maze-Solving Robot
+- Designed an AI to navigate through mazes autonomously.
+- Used Different Algorithms to find the pattern of the maze, and race through it.
+- [Link to project code/video].
+
+### 2024 - DIY Guitar Pedal Adventures
 - Designed and built custom guitar pedals.
 - [Details on design and sound samples].
 
