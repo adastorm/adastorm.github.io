@@ -71,7 +71,7 @@
 </div>
 
 <div class="project">
-  <img src="path-to-pinyata-game-photo.jpg" alt="Pinyata Rhythm Game" class="project-img">
+  <img src="assets/PinyataPulse.png" alt="Pinyata Rhythm Game" class="project-img">
   <h3>2024 - GameJam: Pinyata Rhythm Game</h3>
   <p>A rhythm game made in Unity. Worked on a team of 4 to create a rhythm game where the player hits a pinata to the beat of the music. Project had all original code, art, and music. Source code can be found <a href="https://github.com/adastorm/GameJamGame">here</a>. Itch.io page can be found <a href="https://adastorm.itch.io/pinata">here</a>.</p>
 </div>
