@@ -1,5 +1,5 @@
 title: "Jonah Watts"
-theme: minima
+remote_theme: jekyll/minima
 description: "A showcase of my programming and audio/video projects"
 minima:
   social_links:
