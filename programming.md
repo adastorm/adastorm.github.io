@@ -150,7 +150,7 @@
 </div>
 
 <div class="project">
-  <img src="path-to-guitar-pedal-photo.jpg" alt="DIY Guitar Pedal" class="project-img">
+  <img src="/assets/GuitarPedal.png" alt="DIY Guitar Pedal" class="project-img">
   <div>
     <h3>2024 - DIY Guitar Pedal Adventures</h3>
     <p>Designed and built custom guitar pedals for fun using different methods. [Details on design and sound samples].</p>
