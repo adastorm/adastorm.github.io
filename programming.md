@@ -109,7 +109,7 @@
 <hr>
 
 <div class="project">
-  <img src="path-to-particle-system-photo.jpg" alt="Particle System" class="project-img">
+  <img src="/assets/ParticleProject.png" alt="Particle System" class="project-img">
   <div>
     <h3><a href="Programming/ParticleSystem.md">2021 - Particle System</a></h3>
     <p>A custom-built particle system written in C. A project for a class to learn about how to spawn individual particles and manipulate them in a 2D space.</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="project">
-  <img src="path-to-ray-tracer-photo.jpg" alt="Ray Tracer" class="project-img">
+  <img src="/assets/RayTrace.png" alt="Ray Tracer" class="project-img">
   <div>
     <h3><a href="Programming/RayTracer.md">2021 - DIY Ray Tracer</a></h3>
     <p>A custom-built ray tracer written in Java. A project made to learn about computer graphics to manually make a ray tracer that would render a 3D scene with different geometries.</p>
