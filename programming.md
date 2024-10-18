@@ -78,6 +78,7 @@
     a:hover {
       text-decoration: underline;
     }
+
   </style>
 </head>
 <body>
@@ -141,7 +142,7 @@
 </div>
 
 <div class="project">
-  <img src="path-to-esp32-project-photo.jpg" alt="ESP32 Projects" class="project-img">
+  <img src="/assets/CMPT401 ESP32.jpg" alt="ESP32 Projects" class="project-img">
   <div>
     <h3>2024 - ESP32 Learning Projects</h3>
     <p>Created a series of projects to learn about the ESP32 microcontroller. Link to the website with the projects is <a href="https://adastorm.github.io/CMPT401_TWU/">here</a>.</p>
@@ -168,6 +169,14 @@
   <img src="path-to-vr-campus-tour-photo.jpg" alt="VR Campus Tour" class="project-img">
   <div>
     <h3>2024 - Making a VR Campus Tour App</h3>
+    <p>Designed and built custom guitar pedals. [Details on design and sound samples].</p>
+  </div>
+</div>
+
+<div class="project">
+  <img src="path-to-vr-campus-tour-photo.jpg" alt="VR Campus Tour" class="project-img">
+  <div>
+    <h3>2024 - Making a Spotify Record Player</h3>
     <p>Designed and built custom guitar pedals. [Details on design and sound samples].</p>
   </div>
 </div>
