@@ -4,6 +4,7 @@ description: "A showcase of my programming and audio/video projects"
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/adastorm" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jonah-watts-846b151b6/"}
   skin: dark
 header_pages:
   - audio-video.md
