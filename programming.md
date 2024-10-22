@@ -1,4 +1,3 @@
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -139,10 +138,10 @@
 </div>
 
 <div class="project">
-  <img src="path-to-maze-solving-photo.jpg" alt="AI Maze-Solving Robot" class="project-img">
+  <img src="/assets/MazeRobot.png" alt="AI Maze-Solving Robot" class="project-img">
   <div>
-    <h3>2023 - AI Maze-Solving Robot</h3>
-    <p>Designed an AI to navigate through mazes autonomously. Used different algorithms to find the pattern of the maze and race through it. [Link to project code/video].</p>
+    <h3><a href="https://youtu.be/TqWwla7MOTo">2023 - AI Maze-Solving Robot</a></h3>
+    <p>Designed an AI to navigate through mazes autonomously. Used different algorithms to find the pattern of the maze and race through it.</p>
   </div>
 </div>
 
