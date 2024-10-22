@@ -133,7 +133,7 @@
   <img src="path-to-learning-languages-photo.jpg" alt="Learning Languages" class="project-img">
   <div>
     <h3>2022 - Learning 8 Programming Languages in 3 Months</h3>
-    <p>Documented learning 8 different programming languages. [Mention the languages and insights].</p>
+    <p>Documented learning 8 different programming languages.</p>
   </div>
 </div>
 
