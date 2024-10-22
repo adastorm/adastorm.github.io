@@ -171,7 +171,7 @@
 </div>
 
 <div class="project">
-  <img src="path-to-vr-campus-tour-photo.jpg" alt="VR Campus Tour" class="project-img">
+  <img src="/assets/VR Campus.png" alt="VR Campus Tour" class="project-img">
   <div>
     <h3><a href="https://youtu.be/NV7-2BBgVlI">2024 - Making a VR Campus Tour App</a></h3>
     <p>Created a VR app in unity to provide tours of the Trinity Western University Campus. More details to come.</p>
@@ -179,7 +179,7 @@
 </div>
 
 <div class="project">
-  <img src="path-to-vr-campus-tour-photo.jpg" alt="VR Campus Tour" class="project-img">
+  <img src="/assets/Record.png" alt="RecordPlayer" class="project-img">
   <div>
     <h3><a href="https://youtu.be/4R0EMnLvdYg">2024 - Making a Spotify Record Player</a></h3>
     <p>Designed and built a cutom record player that would trigger playback on spotify.</p>
