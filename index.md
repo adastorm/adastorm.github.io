@@ -39,9 +39,9 @@
 
     <h2>Explore My Work</h2>
     <ul>
-      <li><a href="programming.md">Programming Projects</a></li>
-      <li><a href="audio-video.md">Video/Audio Projects</a></li>
-      <li><a href="resume.md">Resume</a></li>
+      <li><a href="programming">Programming Projects</a></li>
+      <li><a href="audio-video">Video/Audio Projects</a></li>
+      <li><a href="resume">Resume</a></li>
     </ul>
     
     <p>Feel free to explore my work and reach out if you'd like to collaborate or learn more about any projects!</p>
