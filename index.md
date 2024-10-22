@@ -2,9 +2,9 @@
 
 <nav>
   <ul>
-    <li><a href="index.md">Home</a></li>
+    <li><a href="index">Home</a></li>
     <li>
-      <a href="programming.md">Programming Projects</a>
+      <a href="programming">Programming Projects</a>
       <ul>
         <li><a href="project1.html">Particle System</a></li>
         <li><a href="project2.html">Ray Tracer</a></li>
@@ -18,14 +18,14 @@
       </ul>
     </li>
     <li>
-      <a href="audio-video.md">Video/Audio Projects</a>
+      <a href="audio-video">Video/Audio Projects</a>
       <ul>
         <li><a href="video1.html">Video 1</a></li>
         <li><a href="audio1.html">Audio 1</a></li>
         <!-- Add more projects as needed -->
       </ul>
     </li>
-    <li><a href="resume.md">Resume</a></li>
+    <li><a href="resume">Resume</a></li>
   </ul>
 </nav>
 
